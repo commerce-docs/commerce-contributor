@@ -41,3 +41,5 @@ local-test.yml
 yalc.lock
 
 coverage/
+
+megalinter-reports/
